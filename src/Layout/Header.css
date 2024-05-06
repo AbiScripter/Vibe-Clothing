@@ -1,0 +1,13 @@
+.nav {
+  /* background: #fff1ec; */
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.logo {
+  max-width: 7rem;
+}
+
+.navlink span {
+  font-size: 1.05rem;
+}
